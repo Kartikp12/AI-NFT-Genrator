@@ -1,3 +1,3 @@
 import { defineChain } from "thirdweb";
 
-export const chain = defineChain( "<chain_id>" );
+export const chain = defineChain(11155111);
